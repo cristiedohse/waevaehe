@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iedeavaivo.emilhornlund.com/sitemap.xml
